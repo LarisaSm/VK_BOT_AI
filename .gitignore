@@ -1,0 +1,26 @@
+# Секреты
+.env
+
+# Окружение и кэш Python
+venv/
+__pycache__/
+*.pyc
+
+# Служебные файлы vkbottle
+.vkbottle/
+
+# Файлы Claude Code
+.claude/
+CLAUDE.md
+CLAUDE.local.md
+
+# Справочные материалы, для работы бота не нужны
+docs/
+
+# Редакторы и системные файлы
+.vscode/
+.idea/
+.DS_Store
+
+# Логи
+*.log
